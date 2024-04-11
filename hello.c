@@ -1,6 +1,5 @@
 #include <stdio.h>
-int main(){
-
-	printf("hello world!!")
-		i made chngee for
+int main(){ 
+	i made chngee for ansh
+                printf("hello world!!")
 }
