@@ -1,6 +1,5 @@
 #include <stdio.h>
 int main(){
-
-	printf("hello world!!")
-		i made chngee for
+		i made chngee for ayushi
+			printf("heelo world")
 }
