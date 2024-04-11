@@ -1,0 +1,11 @@
+#include <stdio.h>
+<<<<<<< HEAD
+int main(){ 
+	i made chngee for ansh
+                printf("hello world!!")
+=======
+int main(){
+		i made chngee for ayushi
+			printf("heelo world")
+>>>>>>> dev
+}
